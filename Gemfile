@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # Ruby 3.x 环境需要 webrick
+gem "jekyll", "~> 4.4.1"
 gem "webrick", "~> 1.8"
 
 # 常用插件（可选）
