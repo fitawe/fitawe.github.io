@@ -12,8 +12,9 @@ title: Hai-Ning's Lab
 email: hainingliang@hkust-gz.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Hai-Ning Liang.
+url: "https://fitawe.github.io"  # 换成你的用户名
 baseurl: ""
-url: ""
+
 
 include:
   - .htaccess
